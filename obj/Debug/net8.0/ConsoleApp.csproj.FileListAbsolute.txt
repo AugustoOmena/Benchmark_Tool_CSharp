@@ -1,0 +1,14 @@
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/omena/Documents/Augusto.Projetos/ConsoleTests/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
